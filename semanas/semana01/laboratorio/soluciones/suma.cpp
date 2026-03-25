@@ -1,4 +1,4 @@
-﻿#include <iostream>
+#include <iostream>
 using namespace std;
 
 int main(){
@@ -12,12 +12,12 @@ int main(){
 	cout << "Ingrese el segundo numero: ";
 	cin >> num2;
 	
-	
-	
 	//Procesar
-	
+	resultado = num1 + num2; 
 	
 	// Mostrar resultados
+	cout << "La suma de los dos numeros es: " << resultado << endl;
 
 	return 0;
 }
+
