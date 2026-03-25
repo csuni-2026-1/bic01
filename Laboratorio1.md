@@ -10,6 +10,6 @@ Introducción a PseInt y C++
 
 4. Implementar un algoritmo para convertir grados Celsius en Farenheit
     
-    \[F = C*9/5 + 32\]
+    $$F = C*9/5 + 32$$
 
 5. Escribir un algoritmo para determinar si un numero es par o impar
