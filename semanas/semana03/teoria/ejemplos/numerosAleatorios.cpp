@@ -15,6 +15,6 @@ int main(){
 
     // ¿Cómo simulamos el resultado de lanzar un dado?
     int resultado_dado = 1 + rand() % 6;
-    cout << "Resultado del dado: " << resultado_dado << endl;
+    cout << "Resultado del dado: " << resultado_dado << endl;c
     return 0;
 }
