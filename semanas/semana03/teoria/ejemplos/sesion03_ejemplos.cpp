@@ -4,9 +4,18 @@ using namespace std;
 int main(){
 
     // 1. Variables
+    int edad = 19;
+    double temperatura = 37.5;
+    float velocidad = 15.7;
+    char sexo = 'F';
+    bool esPrimo = true; //false
 
 
     // Identificadores válidos
+    int nota_1 = 12;
+
+    int anios = 23;//años = 23;
+    int year = 24;
 
 
     // 2. Tipos de datos
@@ -55,9 +64,22 @@ int main(){
 
     // Lógicos
 
+    if(2 > 3 and 5==5){ // && == and
+                        // || == or
+                        // ~ == not
+    }
+
 
     // Inicialización de variables: por copia vs inicialización uniforme
 
+    // Inicializacion por copia
+    int y = 4;
+
+    // Inicializacion uniforme C++11
+    double x{1.5};
+    int n{3 * x};
+
+    cout << "El valor de n es: " << n <<endl;
 
     //4. Ingreso y salida de información 
 
