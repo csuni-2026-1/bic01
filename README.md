@@ -1,2 +1,2 @@
-# bic01H
-Introducción a la Computación - BIC01 H
+# bic01
+Introducción a la Computación - BIC01
