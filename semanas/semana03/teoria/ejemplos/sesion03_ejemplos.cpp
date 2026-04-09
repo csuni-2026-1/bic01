@@ -5,10 +5,12 @@ int main(){
 
     // 1. Variables
     int edad = 19;
-    double temperatura = 37.5;
-    float velocidad = 15.7;
+    double temperatura = 37.5; // 14 digitos
+    float velocidad = 15.7; // 7 digitos
     char sexo = 'F';
     bool esPrimo = true; //false
+
+    
 
 
     // Identificadores válidos
