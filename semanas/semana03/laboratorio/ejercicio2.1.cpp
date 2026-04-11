@@ -19,13 +19,12 @@ int main () {
 
     // Procesar  
     // Salida
-    if (n1 == n2) {
-        cout << "Los numeros son iguales" <<endl;
-    } else {
-        cout << "Los numeros son diferentes " <<endl;
-    }
+if (n1 == n2) {
+    cout << "Los numeros son iguales" <<endl;
+} else {
+    cout << "Los numeros son diferentes " <<endl;
+}
     
-
 
 
 
