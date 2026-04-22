@@ -1,13 +1,21 @@
-# Ejecutables
-*.exe
-*.out
+# whitelist config
+# Ignorar todo
+*
 
-# Archivos obejto
-*.o
-*.obj
+# Permitir carpetas
+!*/
 
-# Archivos de editores
+# Permitir archivos importantes
+!.gitignore
+!README.md
 
-.vscode/
 
+# Permitir código fuente y otros archivos
+!*.c
+!*.cpp
+!*.h
+!*.pdf
 
+# (Opcional) si usan otros lenguajes
+!*.py
+!*.java
