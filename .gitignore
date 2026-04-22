@@ -14,6 +14,8 @@
 !*.c
 !*.cpp
 !*.h
+!*.psc
+!*.png
 !*.pdf
 
 # (Opcional) si usan otros lenguajes
