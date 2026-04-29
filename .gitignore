@@ -14,6 +14,7 @@
 !*.c
 !*.cpp
 !*.h
+!*.md
 !*.psc
 !*.png
 !*.pdf
