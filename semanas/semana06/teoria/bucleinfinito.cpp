@@ -6,8 +6,10 @@ int main(){
 
     while (i < 10) {
         cout << i << endl;
+        cout << "Bucle infinito " << endl;
         i = i + 2;
     }
-
-    return 0;
+    
+    cout << "Fin de programa " << endl;
+    return 0;  
 }
