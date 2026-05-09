@@ -1,14 +1,19 @@
 # whitelist config
+
 # Ignorar todo
 *
 
 # Permitir carpetas
 !*/
 
+# Ignorar carpeta private
+private/
+
+**/private/
+
 # Permitir archivos importantes
 !.gitignore
 !README.md
-
 
 # Permitir código fuente y otros archivos
 !*.c
@@ -18,7 +23,8 @@
 !*.psc
 !*.png
 !*.pdf
+!*.docx
 
-# (Opcional) si usan otros lenguajes
+# Otros lenguajes
 !*.py
 !*.java
